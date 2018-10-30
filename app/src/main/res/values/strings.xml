@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Community Health Project</string>
+    <string name="login_label">Login</string>
+    <string name="user_name">User name</string>
+    <string name="label_password">Password</string>
+    <string name="label_login">Login</string>
+    <string name="title_activity_child_list">Children List</string>
+    <string name="label_first_name">First Name</string>
+    <string name="label_last_name">Last Name</string>
+    <string name="label_age">Age</string>
+    <string name="label_weight">Weight</string>
+    <string name="username_required">Username required!</string>
+    <string name="password_required">Password required!</string>
+    <string name="save_label">Save</string>
+</resources>
